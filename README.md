@@ -1,1 +1,1 @@
-# IS-maintainability-Index-Tool
+# JS-maintainability-Index-Tool
